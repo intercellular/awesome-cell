@@ -2,7 +2,17 @@
 
 Have a cool Cell demo? Send a pull request! 
 
-Just remember to include both a functional demo and its source code
+## Conversion
+
+Anything experiments or libraries that convert **Cell to X** or **X to Cell**
+
+- to_cell: https://github.com/devsnek/to_cell
+  - Converts [JSX](https://facebook.github.io/react/docs/introducing-jsx.html) to Cell
+  - Converts HTML to Cell
+
+## Integration
+
+Integrating Cell with other libraries.
 
 - Handlebars
   - Demo: https://play.celljs.org/items/1mQfq1
