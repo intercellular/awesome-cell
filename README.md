@@ -10,6 +10,8 @@ Anything experiments or libraries that convert **Cell to X** or **X to Cell**
   - Converts [JSX](https://facebook.github.io/react/docs/introducing-jsx.html) to Cell
   - Converts HTML to Cell
 
+- cell to CSS: https://github.com/gliechtenstein/css.cell
+
 ## Integration
 
 Integrating Cell with other libraries.
