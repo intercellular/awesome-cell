@@ -12,6 +12,9 @@ Anything experiments or libraries that convert **Cell to X** or **X to Cell**
 
 - cell to CSS: https://github.com/gliechtenstein/css.cell
 
+- HTML to JSON to DOM: https://github.com/gliechtenstein/HTML2JSON2DOM
+  - An editor powered by [to_cell](https://github.com/devsnek/to_cell) to turn HTML into JSON, and back to DOM via Cell.
+
 ## Integration
 
 Integrating Cell with other libraries.
